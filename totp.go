@@ -2,7 +2,7 @@
 package totp
 
 const (
-	DefaultT0         = "0"
+	DefaultT0         = "1970-01-01T00:00:00Z"
 	DefaultX          = 30
 	DefaultCodeDigits = 10
 
